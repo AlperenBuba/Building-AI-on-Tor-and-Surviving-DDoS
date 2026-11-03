@@ -62,4 +62,4 @@ This project proves that you don't need a LinkedIn profile with your government 
 *   **[HAYALET](https://github.com/AlperenBuba/HAYALET):** My custom-built, Tor-integrated OSINT cyberdeck.
 
 ---
-*Written by "noname" - A privacy advocate and systems engineer. :)*
+*Written by "noname" - A privacy advocate and systems engineer.*
