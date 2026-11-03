@@ -62,4 +62,4 @@ Bu proje kanıtlıyor ki; yetenekli bir mühendis olarak tanınmak için devlet 
 *   **[HAYALET](https://github.com/AlperenBuba/HAYALET):** Kendi yaptığım, Tor entegreli OSINT cyberdeck projem.
 
 ---
-*"noname" tarafından yazıldı - bir gizlilik savunucusu ve sistem mühendisi.*
+*"noname" tarafından yazıldı - bir gizlilik savunucusu ve sistem mühendisi. :)*
